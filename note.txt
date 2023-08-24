@@ -1,0 +1,19 @@
+    <div class="review-infos-container">
+    <div class="review-user-name">
+            <p><?= 'Mathieu' ?></p>
+            <p><?= 'H' ?>.</p>
+        </div>
+        <div class="review-date">
+            <p>le <?= '18/12/2021'?></p>
+        </div>
+        <div>
+            <p class="rate"><?=  '/5' ?></p>
+        </div>
+        <div class="stars-ratio-container">
+            <div class="progress" id="progress"></div>
+            <img class="stars-img" src="src/images/stars.png" alt="stars ratio"/>
+        </div>
+    </div>
+    <p class="review-text">
+        '<?= 'Très bon service, personnel agréable et professionel !' ?>'
+    </p>

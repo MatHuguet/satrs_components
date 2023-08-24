@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="garage_parrot_db@localhost" uuid="adde74dc-3ff9-46d5-b955-2a72cf7ffb53">
+    <data-source source="LOCAL" name="garage_parrot_db@localhost" uuid="8614107d-78ae-4774-ba6d-61208ceeeafd">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
